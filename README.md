@@ -1,6 +1,6 @@
 # 📊 Annual Sales Report for 2022: Vrinda Store
 
-![Sales Insights](https://imgur.com/x0u46ve)
+![Sales Insights](https://imgur.com/x0u46ve.png)
 
 ## 📝 **Objective:**
 The primary goal of this report is to provide an overview of Vrinda Store’s sales performance in 2022, with a focus on key insights that will help in understanding customer behavior and optimizing strategies to drive growth in the following year. This includes analyzing trends, customer demographics, and sales channels to help inform targeted marketing and sales strategies.
